@@ -4,3 +4,4 @@
 * Newton's method
 * hierarchy cluster
 * knn
+* markov

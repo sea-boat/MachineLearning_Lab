@@ -5,3 +5,4 @@
 * hierarchy cluster
 * knn
 * markov
+* adaboost

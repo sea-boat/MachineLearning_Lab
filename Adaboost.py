@@ -1,8 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-
-np.random.seed(111)
-
 
 def weak_model(data, Dt):
     m = data.shape[0]
@@ -13,8 +9,6 @@ def weak_model(data, Dt):
     for j in range(m):
         pred_temp = []
         sub_mark = None
-        print(data[:j, 1])
-        print(data[j:, 1])
         lsum = np.sum(data[:j, 1])
         rsum = np.sum(data[j:, 1])
         if lsum < rsum:

@@ -6,3 +6,4 @@
 * knn
 * markov
 * adaboost
+* random number generation(all kinds of distributions)

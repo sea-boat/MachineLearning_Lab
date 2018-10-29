@@ -7,3 +7,6 @@
 * markov
 * adaboost
 * random number generation(all kinds of distributions)
+* n sigma outlier detection
+* outlier detection based on median
+* outlier detection in fft way

@@ -6,7 +6,7 @@ with open('../data/data.txt') as f:
 
     plt.figure(1)
     plt.subplot(311)
-    plt.hist([c for c in data])
+    plt.hist(data)
 
     plt.subplot(312)
     plt.plot(data)

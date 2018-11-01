@@ -10,3 +10,4 @@
 * n sigma outlier detection
 * outlier detection based on median
 * outlier detection in fft way
+* dbscan

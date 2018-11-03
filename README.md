@@ -11,3 +11,4 @@
 * outlier detection based on median
 * outlier detection in fft way
 * dbscan
+* kmeans

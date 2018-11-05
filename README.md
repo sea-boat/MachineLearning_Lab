@@ -1,14 +1,15 @@
 ## Demo list
-* Least Square method.
+* Least Square Method.
 * Gradient Descent
-* Newton's method
-* hierarchy cluster
-* knn
-* markov
-* adaboost
-* random number generation(all kinds of distributions)
-* n sigma outlier detection
+* Newton's Method
+* Hierarchy Cluster
+* KNN
+* Markov
+* Adaboost
+* Random Number Generation(all kinds of distributions)
+* N Sigma outlier detection
 * outlier detection based on median
-* outlier detection in fft way
-* dbscan
-* kmeans
+* FFT outlier detection
+* DBSCAN
+* Kmeans
+* Naive Bayes

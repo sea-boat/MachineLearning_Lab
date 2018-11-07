@@ -13,3 +13,4 @@
 * DBSCAN
 * Kmeans
 * Naive Bayes
+* perceptron

@@ -14,3 +14,4 @@
 * Kmeans
 * Naive Bayes
 * perceptron
+* reinforcement learning 
